@@ -1,0 +1,16 @@
+html, body,ul,li {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+body {
+  position: relative;
+
+}
+
+.tmpl {
+  height: 100%;
+
+}
